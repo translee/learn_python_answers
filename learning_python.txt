@@ -1,0 +1,5 @@
+In python you can play games
+In python you can list
+In python you can dictionary
+In python you can class
+In python you can function

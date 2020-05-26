@@ -1,0 +1,11 @@
+def make_album(singer,album,number=''):
+	"""...."""
+	if number:
+		sb = {'sin':singer,'alb':album,'num':number}
+	else:
+		sb = {'sin':singer,'alb':album}
+	return sb
+m = make_album('Jay chou','trace')
+print(m)
+f = make_album('Jay chou','fantasy','120')
+print(f)
